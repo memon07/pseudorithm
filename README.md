@@ -13,11 +13,14 @@ But if one iterates 10 times and the other 1000 times then we have to create som
  1. In each term set the coefficient of the term to one.
  2. Keep the largest term in the function and discard the others.
   
+  
  Terms ranked from highest to lowest :
 ### logn .. n ..  nlogn .. n^2 .. n^3  ............ n^k  .. 2^n .. n!
 
 
+
 There are 7 categories defined for alogrith efficiency.below is the table displaying the 7 categories.
+
 
 
 | Efficiency | Big-O | Iterations | Est Time |
@@ -29,6 +32,11 @@ There are 7 categories defined for alogrith efficiency.below is the table displa
 | polynomial | O(n^k) | 10,000^k | hours |
 | exponential | O(c^n) | 2^10,000 | intractable |
 | factorial | O(n!) | 10,000! | intractable |
+
+
+
+
+![big O range](./images/bigochart.jpeg "Big O range")
 
 
 ```
