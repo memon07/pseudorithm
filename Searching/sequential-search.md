@@ -9,6 +9,15 @@ In sequential search you need to tell the calling algorithm two things:<br/>
 2.if its found , what is the index of the element ?<br/>
 
 
+Algorithm requires 5 parameters :<br/>
+1.the list.<br/>
+2.index of the last element in the list.<br/>
+3.the target.<br/>
+4.the address where the found element's index location is to be stored.<br/>
+5.address where boolean found or not found will be stored.<br/>
+
+
+
 ```javascript
 1. looker = 1
 2. loop (looker < last AND target !== list[looker] )
