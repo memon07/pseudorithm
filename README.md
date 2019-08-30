@@ -1,6 +1,11 @@
 ## Searching 
 
+Searching is the most common and time consuming technique.
+
 * [Linear search](Searching/linear-list-search.md)
+    There are two basic searches for array , the sequential search and the binary search.
+
+    * [Sequential search](Searching/sequential-search.md)
 
 Measuring algorithm's efficiency
 ## Big-O Notation
