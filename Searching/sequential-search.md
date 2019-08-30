@@ -19,6 +19,12 @@ Algorithm requires 5 parameters :<br/>
 
 
 ```javascript
+list - array
+last - index of last element
+target - data to be stored
+locn - address of index in calling the algorithm
+
+
 1. looker = 1
 2. loop (looker < last AND target !== list[looker] )
     1. looker = looker + 1
