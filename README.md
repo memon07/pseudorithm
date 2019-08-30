@@ -1,3 +1,7 @@
+## Searching 
+
+* [Linear search](../blob/master/Searching/linear-list-search.md)
+
 Measuring algorithm's efficiency
 ## Big-O Notation
 
