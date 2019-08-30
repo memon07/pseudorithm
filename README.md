@@ -2,7 +2,7 @@
 
 Searching is the most common and time consuming technique.
 
-* [Linear search](Searching/linear-list-search.md)
+* [Linear search](Searching/linear-list-search.md)<br/>
     There are two basic searches for array , the sequential search and the binary search.
 
     * [Sequential search](Searching/sequential-search.md)
