@@ -2,8 +2,21 @@
 
 It is used whenever the list is not ordered. It is used only for small lists.
 
-In sequential search we start searching for the target at the beginning of the list and continue until we find the target or we are sure that it is not in the list.
+In sequential search we start searching for the target at the beginning of the list and continue until we find the target <br/> or we are sure that it is not in the list.
 
-In sequential search you need to tell the calling algorithm two things:
-1.did it find the data it was looking for ?
-2.if its found , what is the index of the element ?
+In sequential search you need to tell the calling algorithm two things:<br/>
+1.did it find the data it was looking for ?<br/>
+2.if its found , what is the index of the element ?<br/>
+
+
+```javascript
+1. looker = 1
+2. loop (looker < last AND target !== list[looker] )
+    1. looker = looker + 1
+3. locn = looker
+4. if ( target == list[looker])
+    1. found true
+5. else
+    1. found = false
+6. return found
+```
