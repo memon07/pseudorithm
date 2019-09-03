@@ -6,6 +6,10 @@ Searching is the most common and time consuming technique.
     There are two basic searches for array , the sequential search and the binary search.
 
     * [Sequential search](Searching/sequential-search.md)
+        There are 3 types of sequential search:
+        * The sentinel search
+        * The probability search
+        * The ordered list search
 
 Measuring algorithm's efficiency
 ## Big-O Notation
