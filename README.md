@@ -9,7 +9,7 @@ Searching is the most common and time consuming technique.
         There are 3 types of sequential search:
         * [The sentinel search](Searching/sentinel-search.md)
         * [The probability search](Searching/probability-search.md)
-        * The ordered list search
+        * [The ordered list search](Searching/ordered-list-search.md)
 
 Measuring algorithm's efficiency
 ## Big-O Notation
