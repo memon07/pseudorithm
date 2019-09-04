@@ -10,6 +10,7 @@ Searching is the most common and time consuming technique.
         * [The sentinel search](Searching/sentinel-search.md)
         * [The probability search](Searching/probability-search.md)
         * [The ordered list search](Searching/ordered-list-search.md)
+    * [Binary search](Searching/binary-search.md)
 
 Measuring algorithm's efficiency
 ## Big-O Notation
