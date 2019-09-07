@@ -12,8 +12,7 @@ Searching is the most common and time consuming technique.
         * [The ordered list search](Searching/ordered-list-search.md)
     * [Binary search](Searching/binary-search.md)
     * [Hashed list search](Searching/hashed-list-search.md)
-        Types of hashing methods :
-        *[direct hashing](Searching/direct-hashing.md)
+        * [direct hashing](Searching/direct-hashing.md)
 
 Measuring algorithm's efficiency
 ## Big-O Notation
