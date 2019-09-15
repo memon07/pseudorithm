@@ -13,6 +13,7 @@ Searching is the most common and time consuming technique.
     * [Binary search](Searching/binary-search.md)
     * [Hashed list search](Searching/hashed-list-search.md)
         * [direct hashing](Searching/direct-hashing.md)
+        * [subtraction method](Searching/subtraction-method.md)
 
 Measuring algorithm's efficiency
 ## Big-O Notation
