@@ -15,6 +15,7 @@ Searching is the most common and time consuming technique.
         * [direct hashing](Searching/direct-hashing.md)
         * [subtraction method](Searching/subtraction-method.md)
         * [modulo-division method](Searching/modulo-division-method.md)
+        * [digit-extraction-method](Searching/digit-extraction-method.md)
 
 Measuring algorithm's efficiency
 ## Big-O Notation
