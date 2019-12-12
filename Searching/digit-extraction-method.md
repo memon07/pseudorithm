@@ -1,4 +1,4 @@
-# digit-extraction-method
+# digit extraction method
 
 using this technique , selected digits are extracted from the key and used as address.<br/>
 
