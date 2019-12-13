@@ -12,6 +12,7 @@ Searching is the most common and time consuming technique.
         * [The ordered list search](Searching/ordered-list-search.md)
     * [Binary search](Searching/binary-search.md)
     * [Hashed list search](Searching/hashed-list-search.md)
+        * [hashing algorithm](Searching/hashing-algorithm.md)
         * [direct hashing](Searching/direct-hashing.md)
         * [subtraction method](Searching/subtraction-method.md)
         * [modulo-division method](Searching/modulo-division-method.md)
